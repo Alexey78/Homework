@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Arial MT', sans-serif;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+.container {
+	max-width: 1300px;
+	min-width: 400px;
+	margin: 0 auto;
+	min-height: 100%;
+}
+
+body {
+	width: 1280px;
+	margin: 0 auto;
+}
+
+.ProductInfo {
+	float: left;
+	background: #445161;
+}
+
+.name {
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+	color: #ffffff;
+	margin-top: 50px;
+	margin-left: 50px;
+	font-size: 60px;
+	font-weight: 400;
+	float: left;
+}
+
+.fotoProduct {
+	float: right;
+	margin-right: 50px;
+	margin-top: 50px;
+}
+
+.preview {
+	float: left;
+	list-style: inside url("img/check_icon.png");
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 36px;
+	margin-top: 51px;
+	margin-left: 51px;
+	margin-bottom: 51px;
+}
+
+.MyProducts {
+	float: left;
+	height: 381px;
+	width: 703px;
+}
+
+.review {
+	margin-top: 49px;
+	margin-left: 50px;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.text {
+	width: 653px;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+.text_1 {
+	width: 653px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.fotoProduct_1 {
+	float: right;
+	margin-right: 50px;
+	margin-top: 50px;
+}
+
+.rum {
+	float: left;
+	background: green;
+	height: 50px;
+}
+.end {
+	height: 509px;
+	background: #445161;
+}
